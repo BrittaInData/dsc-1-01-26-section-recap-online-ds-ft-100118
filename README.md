@@ -1,10 +1,10 @@
 
-# Introduction
-This short video introduces the topics we'll be covering in section 1 and why they'll be important to you as a Data Scientist.
+# Section Recap
+This short video highlights the key topics we covered in section 1 and why they'll be important to you as a Data Scientist.
 
 ## Objectives
 You will be able to:
-* Understand and explain what will be covered in this section 
+* Understand and explain what was covered in this section 
 * Understand and explain why this section will help you become a data scientist
 
 TEST VIDEO - TO REPLACE <br />
